@@ -14,7 +14,8 @@ dependencies:
     sdk: flutter
 
   extended_image: ^6.2.0
-  photo_manager: ^2.4.0
+  photo_manager:
+    git: https://github.com/fguillen-tejera/flutter_photo_manager.git
   provider: ^6.0.2
   video_player: ^2.4.0
 
